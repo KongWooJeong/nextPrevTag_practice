@@ -1,0 +1,16 @@
+.list {
+    font-size: 50px;
+}
+
+.box {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.select {
+    color: red;
+}
+
+button {
+    font-size: 20px;
+}
